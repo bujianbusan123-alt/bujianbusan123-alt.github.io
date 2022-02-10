@@ -1,33 +1,76 @@
 ---
 layout: page
-title: 关于我 
+title: Liang Xu
+
 ---
 
-一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
+# 许亮
 
-除了iOS技术，我还一直维护着这个博客，懂一些前端的基础知识。
+<span style="color:black;font-size:18pt;font-weight:bold">Phd candidate</span>
+.[**Institute of Functional Nano & Soft Materials**].
+.[**Soochow University**].(http://www.suda.edu.cn/)
+office: 912-408
+Soochow University Dushu-Lake Campus
+Box 33, 199 Ren'ai Rd, Suzhou Industrial Park
+Suzhou, Jiangsu, 215123, P.R. China
+Email: .[**lxu110@stu.suda.edu.cn**].(lxu110@stu.suda.edu.cn)
 
-平时喜欢用python写一些工具，能用工具做的事情坚决不用人工去操作。
+# Experience
+- **2019.06 - now**
 
-<h2> 我们的博客 </h2>  
+# Education
+- **2019.06 - now**
+**Master student**
+"Institute of Functional Nano & Soft Material"
+.[**Soochow University**].(http://www.suda.edu.cn/)
+Advisor: Prof. **Tao Cheng**
 
-这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
+- **2015.09 - 2019.06**
+**B.S. in Material science**
+**School of Chemical and Material engineering**
+**Changshu Institute of Technology**
 
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
-
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-
-<h3> 搭建博客遇到了问题解法方法 </h3>  
-
-查看 [技术支持](https://leopardpan.cn/support/) 需求帮助
-
-博客模板会一直持续更新，请持续关注我，谢谢~
-
-{% include comments.html %}
-
+# Publications
+1. <span style="color:blue;font-size:18pt;font-weight:bold">Effects of High and Low Salt Concentration in Electrolytes at Lithium−Metal Anode Surfaces using DFT-ReaxFF Hybrid Molecular Dynamics Method</span>
+   Liu Y;  Sun QT;  Yu PP;  Wu Y;  **Xu L**;  Yang H;  Xie M;  Cheng T\*;  Goddard III WA; 
+   *J. Phys. Chem. Lett*. **2021**, 12, 2922–2929.
+   <https://doi.org/10.1021/acs.jpclett.1c00279>
+2. <span style="color:blue;font-size:18pt;font-weight:bold">Advanced Characterization and Simulation Methods for Promoting Mechanistic Understanding of Lithium Deposition and Solid-Electrolyte Interphase (SEI) Formation: Recent Progress, Limitations, and Future Perspectives</span>
+   X YL;  Dong K;  J YL;  Adelhelm PE;  Chen YW;  **Xu L**;  Yu PP;  Kim JH;  Kochovski Z;  Yu ZL;  Li WX;  Lebeau J;  Yang SH;  Cao RG;  Jiao SH;  Cheng T\*;  Manke I\*;  Lu Y\*; 
+   *Summitted* **2022** 
+3. <span style="color:blue;font-size:18pt;font-weight:bold">Multiscale Simulation of Solid Electrolyte Interphase</span>
+   Yu PP;  **Xu L**;  Ma BY;  Yang H;  Liu Y;  Cheng T\*; 
+   *Summitted* **2022**
+4. <span style-"color:blue;font-size:18pt;font-weight:bold">Formation of Linear Oligomers in Solid Electrolyte Interphase via Two-Electron Reduction of Ethylene Carbonate </span>
+   Liu Yue;  Wu Yu;  Sun Qintao;  Ma Bingyun;  Yu Peiping;  **Xu L**;  Xie Miao;  Yang Hao;  Cheng T\*; 
+   *Adv. Theory Simul.* **2021**
+5. <span style="color:blue;font-size:18pt;font-weight:bold">Harmonizing Graphene Laminate Spacing and Zn-ion Solvated Structure toward Efficient Compact Capacitive Charge Storage</span>
+   Luo JR;  **Xu L**;  Wang Q;  Liu HM;  Wang YS;  Shao YY;  Wang ML;  Yang DZ;  Li S;  Zhang L;  Xia Z;  Cheng T\*;  Shao YL\*; 
+   *Adv. Funct. Mater* **2022**
+6. <span style="color:blue;font-size:18pt;font-weight:bold">Rh/RhOx nanosheets as pH-universal bifunctional catalysts for hydrazine oxidation and hydrogen evolution reactions</span>
+   Yang JJ;  **Xu L**;  Zhua WX;  Xie M;  Liao F\*;  Cheng T\*;  Kang ZH;  Shao MW\*; 
+   *J. Mater. Chem. A* **2021**
+   <https://doi.org/10.1039/D1TA09391F>
+7. <span style=color:blue;font-size:18pt;font-weight:bold">In-silico Screening the Nitrogen Reduction Reaction on Single-Atom Electrocatalysts Anchored on MoS2</span>
+   **Xu L**;  Xie M;  Yang H;  Yu PP;  Ma BY;  Cheng T\*;  Goddard WA\*; 
+   *Top. Catal.* **2021**
+   <https://doi.org/10.1007/s11244-021-01546-6>
+8. <span style="color:blue;font-size:18pt;font-weight:bold">Anomalous Size Effect of Pt Ultrathin Nanowires on Oxygen Reduction Reaction</span>
+   Yao ZY;  Yuan YL;  Cheng T;  Sun TL;  Lu YF;  Galindo P;  Yang ZL;  Gao L;  **Xu L**;  Yang H;  Huang HW\*; 
+   *Nano Lett.* **2021**, 21, 9354–9360. 
+   <https://doi.org/10.1021/acs.nanolett.1c03805>
+9. <span style="color:blue;font-size:18pt;font-weight:bold">Assembling covalent organic framework membranes with superhigh ion exchange capacity </span>
+   Wang XY;  Shi BB;  Yang H;  Guan JY;  **Xu L**;  Fan CY;  You XD;  Wang YN;  Zhang Z;  Cheng T;  Zhang RN\*;  Jiang ZY\*; 
+   *Nat. Comm.* **2021**
+10. <span style="color:blue;font-size:18pt;font-weight:bold">Reaction Mechanism on Sulphur Doped Ni Single-Atom Catalysis for CO2 Reduction Reaction</span>
+   Yuan Q;  Li YY;  Yu PP;  Ma BY;  **Xu L**;  Sun QT;  Yang H\*;  Xie M\*;  Cheng T\*; 
+   *J. Exp. Nanosci.* **2021**, 16, 256-265. 
+   <https://doi.org/10.1080/17458080.2021.1959032>
+11. <span style="color:blue;font-size:18pt;font-weight:bold">Effects of High and Low Salt Concentration in Electrolytes at Lithium−Metal Anode Surfaces using DFT-ReaxFF Hybrid Molecular Dynamics Method </span>
+   Liu Y;  Sun QT;  Yu PP;  Wu Y;  **Xu L**;  Yang H;  Xie M;  Cheng T\*;  Goddard III WA; 
+   *J. Phys. Chem. Lett.* **2021**, 12, 2922–2929.
+   <https://doi.org/10.1021/acs.jpclett.1c00279>
+12. <span style="color:blue;font-size:18pt;font-weight:bold">Bioinspired Activation of N2 on Asymmetrical Coordinated Fe grafted 1T MoS2 at Room Temperature</span>
+   Guo JJ;  Wang MY;  **Xu L**;  Li XM;  Asma I;  George S;  Yang H;  Xie M;  Guo JJ;  Zai JT\*;  Feng ZX;  Guo JJ;  Cheng T\*;  Qian XF\*; 
+   *Chin. J. Chem.* **2021**, 39, 1898-1904. 
+   <https://doi.org/10.1002/cjoc.202000675 >
