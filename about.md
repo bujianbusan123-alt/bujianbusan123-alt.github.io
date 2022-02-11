@@ -45,10 +45,10 @@ Advisor: Prof. **Tao Cheng**<br>
    Liu Yue;  Wu Yu;  Sun Qintao;  Ma Bingyun;  Yu Peiping;  **Xu L**;  Xie Miao;  Yang Hao;  Cheng T\*; <br>
    *Adv. Theory Simul.* **2021**<br>
 5. <span style="color:blue;font-size:12pt;font-weight:bold">Harmonizing Graphene Laminate Spacing and Zn-ion Solvated Structure toward Efficient Compact Capacitive Charge Storage</span><br>
-   Luo JR;  **Xu L**;  Wang Q;  Liu HM;  Wang YS;  Shao YY;  Wang ML;  Yang DZ;  Li S;  Zhang L;  Xia Z;  Cheng T\*;  Shao YL\*; <br>
+   Luo JR<sup>#</sup>;  **Xu L**<sup>#</sup>;  Wang Q;  Liu HM;  Wang YS;  Shao YY;  Wang ML;  Yang DZ;  Li S;  Zhang L;  Xia Z;  Cheng T\*;  Shao YL\*; <br>
    *Adv. Funct. Mater* **2022**.<br>
 6. <span style="color:blue;font-size:12pt;font-weight:bold">Rh/RhOx nanosheets as pH-universal bifunctional catalysts for hydrazine oxidation and hydrogen evolution reactions</span><br>
-   Yang JJ;  **Xu L**;  Zhua WX;  Xie M;  Liao F\*;  Cheng T\*;  Kang ZH;  Shao MW\*; <br>
+   Yang JJ<sup>#</sup>;  **Xu L**<sup>#</sup>;  Zhua WX;  Xie M;  Liao F\*;  Cheng T\*;  Kang ZH;  Shao MW\*; <br>
    *J. Mater. Chem. A* **2021**.<br>
    <https://doi.org/10.1039/D1TA09391F><br>
 7. <span style="color:blue;font-size:12pt;font-weight:bold">In-silico Screening the Nitrogen Reduction Reaction on Single-Atom Electrocatalysts Anchored on MoS2</span><br>
@@ -71,6 +71,6 @@ Advisor: Prof. **Tao Cheng**<br>
    *J. Phys. Chem. Lett.* **2021**, 12, 2922–2929.<br>
     <https://doi.org/10.1021/acs.jpclett.1c00279><br>
 12. <span style="color:blue;font-size:12pt;font-weight:bold">Bioinspired Activation of N2 on Asymmetrical Coordinated Fe grafted 1T MoS2 at Room Temperature</span><br>
-   Guo JJ;  Wang MY;  **Xu L**;  Li XM;  Asma I;  George S;  Yang H;  Xie M;  Guo JJ;  Zai JT\*;  Feng ZX;  Guo JJ;  Cheng T\*;  Qian XF\*; <br>
+   Guo JJ<sup>#</sup>;  Wang MY<sup>#</sup>;  **Xu L**<sup>#</sup>;  Li XM;  Asma I;  George S;  Yang H;  Xie M;  Guo JJ;  Zai JT\*;  Feng ZX;  Guo JJ;  Cheng T\*;  Qian XF\*; <br>
    *Chin. J. Chem.* **2021**, 39, 1898-1904.<br>
     <https://doi.org/10.1002/cjoc.202000675 ><br>
