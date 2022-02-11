@@ -37,7 +37,6 @@ Like to read, code and touch fish, and unlike to write paper !
 
 <h3> Daily tools </h3>
 
-## AAAS
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**feedly**](https://feedly.com/i/latest)
 |[**LA Times**](https://www.latimes.com/)
@@ -140,7 +139,7 @@ Like to read, code and touch fish, and unlike to write paper !
 |[**linggle**](https://linggle.com/)
 |[**GRC**](https://www.grc.org/my-grc/)
 |  
-**Soochow University**
+|[**Soochow University**](http:www.suda.cn/)
 |[**map**](http://www.suda.edu.cn/map.do)
 |[**cwc**](http://cwc.suda.edu.cn/)
 |[**file**](http://file.suda.edu.cn/)

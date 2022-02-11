@@ -41,7 +41,7 @@ Advisor: Prof. **Tao Cheng**<br>
 3. <span style="color:blue;font-size:12pt;font-weight:bold">Multiscale Simulation of Solid Electrolyte Interphase</span><br>
    Yu PP;  **Xu L**;  Ma BY;  Yang H;  Liu Y;  Cheng T\*; <br>
    *Summitted* **2022**<br>
-4. <span style-"color:blue;font-size:12pt;font-weight:bold">Formation of Linear Oligomers in Solid Electrolyte Interphase via Two-Electron Reduction of Ethylene Carbonate </span><br>
+4. <span style="color:blue;font-size:12pt;font-weight:bold">Formation of Linear Oligomers in Solid Electrolyte Interphase via Two-Electron Reduction of Ethylene Carbonate </span><br>
    Liu Yue;  Wu Yu;  Sun Qintao;  Ma Bingyun;  Yu Peiping;  **Xu L**;  Xie Miao;  Yang Hao;  Cheng T\*; <br>
    *Adv. Theory Simul.* **2021**<br>
 5. <span style="color:blue;font-size:12pt;font-weight:bold">Harmonizing Graphene Laminate Spacing and Zn-ion Solvated Structure toward Efficient Compact Capacitive Charge Storage</span><br>
@@ -51,7 +51,7 @@ Advisor: Prof. **Tao Cheng**<br>
    Yang JJ;  **Xu L**;  Zhua WX;  Xie M;  Liao F\*;  Cheng T\*;  Kang ZH;  Shao MW\*; <br>
    *J. Mater. Chem. A* **2021**.<br>
    <https://doi.org/10.1039/D1TA09391F><br>
-7. <span style=color:blue;font-size:12pt;font-weight:bold">In-silico Screening the Nitrogen Reduction Reaction on Single-Atom Electrocatalysts Anchored on MoS2</span><br>
+7. <span style="color:blue;font-size:12pt;font-weight:bold">In-silico Screening the Nitrogen Reduction Reaction on Single-Atom Electrocatalysts Anchored on MoS2</span><br>
    **Xu L**;  Xie M;  Yang H;  Yu PP;  Ma BY;  Cheng T\*;  Goddard WA\*; <br>
    *Top. Catal.* **2021**.<br>
    <https://doi.org/10.1007/s11244-021-01546-6><br>
