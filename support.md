@@ -145,18 +145,8 @@ Like to read, code and touch fish, and unlike to write paper !
 |[**file**](http://file.suda.edu.cn/)
 |[**u**](http://u.suda.edu.cn/)
 |  
-|[**pt**](http://pt.sjtu.edu.cn/)
-|[**ginput**](https://www.google.com/intl/zh-CN/inputtools/try/)
-|  
 |[**softwares**](http://www.tcheng.org/more/softwares)
 |  
-**Useful Links:**  
-|[**chemnfographic**](https://cheminfographic.wordpress.com/)
-|[**普莱德**](http://www.pride-liumao.com/)
-|[**ARC**](http://tcheng.org/arc)
-|[**Bayesian**](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
-|  
-
 
 [//]:#果有关于iOS的问题我们也可以一起讨论
 
