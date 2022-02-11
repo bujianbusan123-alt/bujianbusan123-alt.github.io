@@ -21,7 +21,7 @@ Email: [**lxu110@stu.suda.edu.cn**](lxu110@stu.suda.edu.cn)<br>
 # Education
 - **2019.06 - now**<br>
 **Master student**<br>
-"Institute of Functional Nano & Soft Material"<br>
+**Institute of Functional Nano & Soft Material**<br>
 [**Soochow University**](http://www.suda.edu.cn/)<br>
 Advisor: Prof. **Tao Cheng**<br>
 
@@ -31,10 +31,10 @@ Advisor: Prof. **Tao Cheng**<br>
 **Changshu Institute of Technology**<br>
 
 # Publications
-1. <span style="color:blue;font-size:18pt;font-weight:bold">Effects of High and Low Salt Concentration in Electrolytes at Lithium−Metal Anode Surfaces using DFT-ReaxFF Hybrid Molecular Dynamics Method</span>.
-   Liu Y;  Sun QT;  Yu PP;  Wu Y;  **Xu L**;  Yang H;  Xie M;  Cheng T\*;  Goddard III WA; .
-   *J. Phys. Chem. Lett*. **2021**, 12, 2922–2929\..
-   <https://doi.org/10.1021/acs.jpclett.1c00279>.
+1. <span style="color:blue;font-size:12pt;font-weight:bold">Effects of High and Low Salt Concentration in Electrolytes at Lithium−Metal Anode Surfaces using DFT-ReaxFF Hybrid Molecular Dynamics Method</span><br>
+   Liu Y;  Sun QT;  Yu PP;  Wu Y;  **Xu L**;  Yang H;  Xie M;  Cheng T\*;  Goddard III WA; <br>
+   *J. Phys. Chem. Lett*. **2021**, 12, 2922–2929.<br>
+   <https://doi.org/10.1021/acs.jpclett.1c00279><br>
 2. <span style="color:blue;font-size:18pt;font-weight:bold">Advanced Characterization and Simulation Methods for Promoting Mechanistic Understanding of Lithium Deposition and Solid-Electrolyte Interphase (SEI) Formation: Recent Progress, Limitations, and Future Perspectives</span>.
    X YL;  Dong K;  J YL;  Adelhelm PE;  Chen YW;  **Xu L**;  Yu PP;  Kim JH;  Kochovski Z;  Yu ZL;  Li WX;  Lebeau J;  Yang SH;  Cao RG;  Jiao SH;  Cheng T\*;  Manke I\*;  Lu Y\*; .
    *Summitted* **2022**.
