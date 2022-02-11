@@ -25,10 +25,10 @@ Email: [**lxu110@stu.suda.edu.cn**](lxu110@stu.suda.edu.cn)<br>
 [**Soochow University**](http://www.suda.edu.cn/)<br>
 Advisor: Prof. **Tao Cheng**<br>
 
-- **2015.09 - 2019.06**
+- **2015.09 - 2019.06**<br>
 **B.S. in Material science**<br>
 **School of Chemical and Material engineering**<br>
-**Changshu Institute of Technology**<br>
+[**Changshu Institute of Technology**](https://www.cslg.edu.cn/)<br>
 
 # Publications
 1. <span style="color:blue;font-size:12pt;font-weight:bold">Effects of High and Low Salt Concentration in Electrolytes at Lithium−Metal Anode Surfaces using DFT-ReaxFF Hybrid Molecular Dynamics Method</span><br>
