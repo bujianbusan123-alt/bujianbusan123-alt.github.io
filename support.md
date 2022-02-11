@@ -25,8 +25,6 @@ title: 技术支持
 * Hexo 、Jekyll 搭建个人博客遇到的问题技术支持
 * 域名申请，DNS配置遇到的问题技术支持
 * 自建服务器部署个人博客，服务器配置
-[//]:#*Nginx反向代理、supervisor守护进程
-[//]:*域名备案、SSL证书配置
 
 [//]:#我可能不是所有的问题都能解答，但是我会带着你去学习，一起成长！
 
@@ -148,8 +146,6 @@ Like to read, code and touch fish, and unlike to write paper !
 |  
 |[**softwares**](http://www.tcheng.org/more/softwares)
 |
-[//]:#果有关于iOS的问题我们也可以一起讨论
-
 
 [//]:#<h3>感谢您的打赏</h3> 
 
