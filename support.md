@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 技术支持
+title: Technical support
  
 ---
 
-博客源码在 <a target="_blank" href='https://github.com/bujianbusan123-alt/bujianbusan123-alt.github.io'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+Source code in <a target="_blank" href='https://github.com/bujianbusan123-alt/bujianbusan123-alt.github.io'>Github</a> 
 
 
-遇到问题请先自行排查，可以直接在[Issues](https://github.com/bujianbusan123-alt/bujianbusan123-alt.github.io/issues)里面提问，不过回复的可能不及时。
+If you conquer question, feel free on [Issues](https://github.com/bujianbusan123-alt/bujianbusan123-alt.github.io/issues)question, but maybe I have no time answer in time.
 
 [//]:#目前我已经给很多小伙伴做过单独的技术支持了，现在设置 
 
@@ -25,8 +25,8 @@ title: 技术支持
 * Hexo 、Jekyll 搭建个人博客遇到的问题技术支持
 * 域名申请，DNS配置遇到的问题技术支持
 * 自建服务器部署个人博客，服务器配置
-
-[//]:#我可能不是所有的问题都能解答，但是我会带着你去学习，一起成长！
+* 计算化学问题，欢迎互相讨论，相互学习
+* 我可能不是所有的问题都能解答，但是我会带着你去学习，一起成长！
 
 <h3> I am a moyu master </h3>
 
