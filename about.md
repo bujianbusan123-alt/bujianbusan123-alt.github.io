@@ -37,10 +37,12 @@ Advisor: Prof. **Tao Cheng**<br>
    <https://doi.org/10.1021/acs.jpclett.1c00279><br>
 2. <span style="color:blue;font-size:12pt;font-weight:bold">Advanced Characterization and Simulation Methods for Promoting Mechanistic Understanding of Lithium Deposition and Solid-Electrolyte Interphase (SEI) Formation: Recent Progress, Limitations, and Future Perspectives</span><br>
    X YL;  Dong K;  J YL;  Adelhelm PE;  Chen YW;  **Xu L**;  Yu PP;  Kim JH;  Kochovski Z;  Yu ZL;  Li WX;  Lebeau J;  Yang SH;  Cao RG;  Jiao SH;  Cheng T\*;  Manke I\*;  Lu Y\*; <br>
-   *Summitted* **2022**.<br>
+   *Adv. Energy Mate* **2022**, 12, 2200398.<br>
+   <https://doi.org/10.1002/aenm.202200398><br>
 3. <span style="color:blue;font-size:12pt;font-weight:bold">Multiscale Simulation of Solid Electrolyte Interphase</span><br>
    Yu PP;  **Xu L**;  Ma BY;  Yang H;  Liu Y;  Cheng T\*; <br>
-   *Summitted* **2022**<br>
+   *Energy Storage Science and Technology* **2022**, 11, 921-928.<br>
+   <https://esst.cip.com.cn/CN/10.19799/j.cnki.2095-4239.2022.0046><br>
 4. <span style="color:blue;font-size:12pt;font-weight:bold">Formation of Linear Oligomers in Solid Electrolyte Interphase via Two-Electron Reduction of Ethylene Carbonate </span><br>
    Liu Yue;  Wu Yu;  Sun Qintao;  Ma Bingyun;  Yu Peiping;  **Xu L**;  Xie Miao;  Yang Hao;  Cheng T\*; <br>
    *Adv. Theory Simul.* **2021**<br>
@@ -65,12 +67,12 @@ Advisor: Prof. **Tao Cheng**<br>
 10. <span style="color:blue;font-size:12pt;font-weight:bold">Reaction Mechanism on Sulphur Doped Ni Single-Atom Catalysis for CO2 Reduction Reaction</span><br>
    Yuan Q;  Li YY;  Yu PP;  Ma BY;  **Xu L**;  Sun QT;  Yang H\*;  Xie M\*;  Cheng T\*; <br>
    *J. Exp. Nanosci.* **2021**, 16, 256-265.<br>
-    <https://doi.org/10.1080/17458080.2021.1959032><br>
+   <https://doi.org/10.1080/17458080.2021.1959032><br>
 11. <span style="color:blue;font-size:12pt;font-weight:bold">Effects of High and Low Salt Concentration in Electrolytes at Lithium−Metal Anode Surfaces using DFT-ReaxFF Hybrid Molecular Dynamics Method </span><br>
    Liu Y;  Sun QT;  Yu PP;  Wu Y;  **Xu L**;  Yang H;  Xie M;  Cheng T\*;  Goddard III WA; <br>
    *J. Phys. Chem. Lett.* **2021**, 12, 2922–2929.<br>
-    <https://doi.org/10.1021/acs.jpclett.1c00279><br>
+   <https://doi.org/10.1021/acs.jpclett.1c00279><br>
 12. <span style="color:blue;font-size:12pt;font-weight:bold">Bioinspired Activation of N2 on Asymmetrical Coordinated Fe grafted 1T MoS2 at Room Temperature</span><br>
    Guo JJ<sup>#</sup>;  Wang MY<sup>#</sup>;  **Xu L**<sup>**\#**</sup>;  Li XM;  Asma I;  George S;  Yang H;  Xie M;  Guo JJ;  Zai JT\*;  Feng ZX;  Guo JJ;  Cheng T\*;  Qian XF\*; <br>
    *Chin. J. Chem.* **2021**, 39, 1898-1904.<br>
-    <https://doi.org/10.1002/cjoc.202000675 ><br>
+   <https://doi.org/10.1002/cjoc.202000675 ><br>
