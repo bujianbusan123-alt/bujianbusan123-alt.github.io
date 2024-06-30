@@ -16,8 +16,8 @@ Suzhou, Jiangsu, 215123, P.R. China<br>
 Email: [**lxu110@stu.suda.edu.cn**](lxu110@stu.suda.edu.cn)<br>
 
 # Experience
-- **2019.06 - now (no work)**
-
+- **2019.06 - now: Study at Soochow University**
+- **2022.03 - 2022.06: Internship**
 # Education
 - **2019.06 - now**<br>
 **PhD student**<br>
@@ -31,6 +31,14 @@ Advisor: Prof. **Tao Cheng**<br>
 [**Changshu Institute of Technology**](https://www.cslg.edu.cn/)<br>
 
 # Publications
+22. <span style="color:blue;font-size:12pt;font-weight:bold">Artificial intelligence for the understanding of electrolyte chemistry and electrode interface in lithium battery</span><br>
+   Yawei Chen, Yue Liu, Zixu He, **Xu L**, Peiping Yu, Qintao Sun, Wanxia Li, Yulin Jie, Ruiguo Cao, Tao Cheng\* and Shuhong Jiao\*<br>
+   *Natl Sci Open*<br>
+    <https://doi.org/10.1360/nso/20230039><br>
+21. <span style="color:blue;font-size:12pt;font-weight:bold">Atomic Imaging of Multi-Dimensional Ruddlesden–Popper Interfaces in Lead-Halide Perovskites</span><br>
+   Yusheng Liu, Suya Liu, **Xu L**, Mengmeng Ma, Xuliang Zhang, Xiao Chen, Fei Wei, Bin Song, Tao Cheng, Jianyu Yuan\*, Boyuan Shen\*<br>
+   *Small*<br>
+    <https://doi.org/10.1002/smll.202400013><br>
 20. <span style="color:blue;font-size:12pt;font-weight:bold">Ultra Stable Zinc Anode Solid Electrolyte Interphase via Inner Helmholtz Plane Engineering</span><br>
    Luo JR<sup>#</sup>; **Xu L**<sup>#</sup>; Yang YN; Huang S; Zhou YJ; Shao YY; Wang TH; Zhao JQ; Zhao XX; Tian JM; Guo SH; Cheng T\*; Shao YL\*; Zhang J\*;<br>
    *Nat. Commun. 2024, , ASAP.*<br>
