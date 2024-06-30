@@ -15,6 +15,7 @@ Email: [**lxu110@stu.suda.edu.cn**](lxu110@stu.suda.edu.cn)<br>
 
 # Experience
 - **2022.03 - 2022.06: Internship at PG company**<br>
+
 # Education
 - **2019.06 - now**<br>
 **PhD student**<br>
