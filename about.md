@@ -16,7 +16,6 @@ Suzhou, Jiangsu, 215123, P.R. China<br>
 Email: [**lxu110@stu.suda.edu.cn**](lxu110@stu.suda.edu.cn)<br>
 
 # Experience
-- **2019.06 - now: Study at Soochow University**
 - **2022.03 - 2022.06: Internship**
 # Education
 - **2019.06 - now**<br>
