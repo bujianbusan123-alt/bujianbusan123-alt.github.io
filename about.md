@@ -4,8 +4,6 @@ title: Liang Xu
 
 ---
 
-# 许亮
-
 <span style="color:black;font-size:12pt;font-weight:bold">Phd candidate</span><br>
 **Institute of Functional Nano & Soft Materials**<br>
 [**Soochow University**](http://www.suda.edu.cn/)<br>
