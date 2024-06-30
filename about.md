@@ -37,31 +37,31 @@ Advisor: Prof. **Tao Cheng**<br>
 19. <span style="color:blue;font-size:12pt;font-weight:bold">Tailoring Localized Electrolyte via a Dual-Functional Protein Membrane Toward Stable Zn Anodes</span><br>
    Guo WY<sup>#</sup>; **Xu L**<sup>**#**</sup>; Su YW; Tian ZN; Qiao CP; Zou YH; Chen ZA; Yang XZ; Cheng T\*; Sun JY\*;<br>
    *ACS Nano 2024, , ASAP.*<br>
-   <https://doi.org/10.1021/acsnano.4c02740><br>
+    <https://doi.org/10.1021/acsnano.4c02740><br>
 18. <span style="color:blue;font-size:12pt;font-weight:bold">In situ Imaging of the Atomic Phase Transition Dynamics in Metal Halide Perovskites</span><br>
    Ma MM; Zhang XL; Chen X; Xiong H; **Xu L**; Cheng T; Yuan JY; Wei F; Shen BY\*;<br>
    *Nat. Commun. 2023, 14, 7142.*<br>
-   <https://doi.org/10.1038/s41467-023-42999-5><br>
+    <https://doi.org/10.1038/s41467-023-42999-5><br>
 17. <span style="color:blue;font-size:12pt;font-weight:bold">A Holistic Additive Protocol Steers Dendrite-Free Zn(101) Orientational Electrodeposition</span><br>
    Su YW<sup>#</sup>; **Xu L**<sup>**#**</sup>; Sun YJ<sup>#</sup>; Guo WY; Yang XZ; Zou YH; Ding M; Zhang QH; Qiao CP; Dou SX; Cheng T\*; Sun JY\*;<br> 
    *Small 2023, , ASAP.*<br>
-   <https://doi.org/10.1002/smll.202308209><br>
+    <https://doi.org/10.1002/smll.202308209><br>
 16. <span style="color:blue;font-size:12pt;font-weight:bold">Atomically unraveling the structural evolution of surfaces and interfaces in metal halide perovskite quantum dots</span><br>
    Ma MM<sup>#</sup>; Zhang XL<sup>#</sup>; **Xu L**<sup>**#**</sup>; Chen X; Wang L; Cheng T; Wei F; Yuan JY\*; Shen BY\*; <br>
    *Adv. Mater. 2023, 35, 2300653.*<br>
-   <https://doi.org/10.1002/adma.202300653><br>
+    <https://doi.org/10.1002/adma.202300653><br>
 15. <span style="color:blue;font-size:12pt;font-weight:bold">Fine-Tuned Molecular Design toward a Stable Solid Electrolyte Interphase on a Lithium Metal Anode from in silico Simulation</span><br>
    Ma BY; Liu Y\*; Sun QT; Yu PP; **Xu L**; Yang H; Xie M; Cheng T\*;<br>
    *Mater. Today Chem. 2023, 33, 101735.*<br>
-   <https://doi.org/10.1016/j.mtchem.2023.101735><br>
+    <https://doi.org/10.1016/j.mtchem.2023.101735><br>
 14. <span style="color:blue;font-size:12pt;font-weight:bold">Regulating Inner Helmholtz Plane with A Small Addition of High Donor Additive for Efficient Zn Anode Reversibility</span><br>
    Luo JR<sup>#<sup/>; **Xu L**<sup>**#**<sup/>; Zhou YJ; Yan TR; Shao YY; Yang DZ; Zhang L; Xia Z; Wang TH; Zhang L; Cheng T\*; Shao YL\*;<br>
    *Angew. Chem., Int. Ed. 2023, 62, e202302302.*<br>
-   <https://doi.org/10.1002/anie.202302302><br>
+    <https://doi.org/10.1002/anie.202302302><br>
 13. <span style="color:blue;font-size:12pt;font-weight:bold">The operation active site of O2 reduction to H2O2 over ZnO</span><br>
    Zhou YJ; **Xu L**; Wu J; Zhu WX; He TW; Yang H; Huang H; Cheng T\*; Liu Y\*; Kang ZH\*;<br>
    *Energy Environ. Sci. 2023, 16, 3526-3533.*<br>
-   <https://doi.org/10.1039/D3EE01788E><br>
+    <https://doi.org/10.1039/D3EE01788E><br>
 12. <span style="color:blue;font-size:12pt;font-weight:bold">Machine Learning Predicts the X-ray Photoelectron Spectroscopy of the Solid Electrolyte Interface of Lithium Metal Battery</span><br>
    Sun QT; Xiang Y; Liu Y; **Xu L**; Leng TL; Ye YF; Fortunelli A\*; Goddard WA\*; Cheng T\*;<br>
    *J. Phys. Chem. Lett.* **2022**, 13, 8047–8054.<br>
