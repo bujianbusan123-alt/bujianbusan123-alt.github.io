@@ -38,16 +38,11 @@ Like to read, code and touch fish, and unlike to write paper !
 ## AAAS
 |[**gmail**](https://mail.google.com/mail/u/0/)
 |[**feedly**](https://feedly.com/i/latest)
-|[**LA Times**](https://www.latimes.com/)
 |[**新华日报**](http://xh.xhby.net/pc/layout)
 |[**google news**](https://news.google.com)
-|[**google keep**](https://keep.google.com)
 |[**g-calendar**](https://calendar.google.com/calendar/render#main_7)
 |[**sendto**](https://send2boox.com/)
-|[**onedrive**](https://onedrive.live.com/?id=root&cid=D03F4BCF8ACB5589)
 |  
-|[**regexr-cn**](https://regexr-cn.com/)
-|[**正则练习**](https://codejiaonang.com/#/)
 |[**MaterialProject**](https://materialsproject.org/)
 |[**symmetry**](http://symmetry.jacobs-university.de/)
 |[**point group**](https://symotter.org/)
@@ -131,7 +126,6 @@ Like to read, code and touch fish, and unlike to write paper !
 |[**remove line break**](https://www.textfixer.com/tools/remove-line-breaks.php)
 |[**title case**](https://titlecase.com/)
 |  
-|[**UNC**](https://writingcenter.unc.edu/tips-and-tools/)
 |[**tools**](https://zapier.com/blog/writing-editing-apps/#brainstorming)
 |  
 |[**overleaf**](https://www.overleaf.com/project)
@@ -144,8 +138,6 @@ Like to read, code and touch fish, and unlike to write paper !
 |[**file**](http://file.suda.edu.cn/)
 |[**u**](http://u.suda.edu.cn/)
 |  
-|[**softwares**](http://www.tcheng.org/more/softwares)
-|
 
 [//]:#<h3>感谢您的打赏</h3> 
 

@@ -9,7 +9,7 @@ title: Liang Xu
 <span style="color:black;font-size:12pt;font-weight:bold">Phd candidate</span><br>
 **Institute of Functional Nano & Soft Materials**<br>
 [**Soochow University**](http://www.suda.edu.cn/)<br>
-office: 912-408<br>
+Office: 912-408<br>
 Soochow University Dushu-Lake Campus<br>
 Box 33, 199 Ren'ai Rd, Suzhou Industrial Park<br>
 Suzhou, Jiangsu, 215123, P.R. China<br>
@@ -20,7 +20,7 @@ Email: [**lxu110@stu.suda.edu.cn**](lxu110@stu.suda.edu.cn)<br>
 
 # Education
 - **2019.06 - now**<br>
-**Master student**<br>
+**PhD student**<br>
 **Institute of Functional Nano & Soft Material**<br>
 [**Soochow University**](http://www.suda.edu.cn/)<br>
 Advisor: Prof. **Tao Cheng**<br>
